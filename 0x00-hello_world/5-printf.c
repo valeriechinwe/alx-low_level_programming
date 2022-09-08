@@ -4,7 +4,8 @@
 * main - print the string without pu function
 *
 * Description: using the main function
-* Return - always 0
+* this program prints with proper grammar, but the outcome is a piece of art,
+* Return: 0
 */
 int main(void)
 {
