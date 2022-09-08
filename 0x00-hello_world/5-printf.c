@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - prints a text
+* main - print the string without pu function
 *
+* Description: using the main function
 * Return - always 0
 */
 int main(void)
